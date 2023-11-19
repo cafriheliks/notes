@@ -16,3 +16,6 @@ Let's GO
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use task management tools, such as Trello or Asana, to help keep track of your priorities. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out the steps you need to take and the resources you will need. Creating a detailed plan will ensure you have a clear understanding of what needs to happen and when, allowing you and your team to stay on track and avoid any potential bottlenecks.  
 3. Stay organized: As a programmer, maintaining a clean and organized workspace is vital for efficiency and productivity. Organize your code, project files, documentation, etc. in a way that makes sense to you. You can use version control systems, like Git, for your source code to keep everything up-to-date and easily accessible. Additionally, using code editors and IDEs, which offer features like code folding, autocomplete, debugging tools and more, can significantly improve your productivity and efficiency.
+
+# 2023-11-19
+- "Keep it simple, stupid!"
