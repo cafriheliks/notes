@@ -24,3 +24,10 @@ Let's GO
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while acknowledging the ever-present potential for users to find new and unexpected ways to break or misuse it. It also emphasizes the importance of continuous learning and improvement in the field of programming to stay ahead in this race.
+
+# 2023-11-21
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
+ -
+Next, planning ahead is crucial. Before starting a new project or a difficult task, take some time to think about how you will approach it. Break it down into smaller, manageable steps, then allocate time for each step. Creating a detailed plan will make it easier for youto stay focused and avoid getting lost in the weeds. You can also use project management tools, like TrelloTrello或AsanaAsaneAsena，to help with planning and organization. As you complete each task inyour plan, cross it off your list, allowing youtobe more accountable and focused.
