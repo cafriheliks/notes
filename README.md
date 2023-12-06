@@ -106,3 +106,8 @@ To be successful in the programming field, one must also have excellent communic
 
 # 2023-12-05
 - Today's programming wisdom is to always keep learning and stay updated with the latest technologies and best practices in your field. The world of programming is constantly evolving, and it's important to adapt and grow with it to remain relevant and effective as a developer. This includes regularly expanding your skill set, seeking feedback and guidance from more experienced colleagues, and staying curious about new approaches and techniques. By making a commitment to ongoing learning, you can continuously improve your abilities and deliver better results for your projects and clients.
+
+# 2023-12-06
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, maintainable code first and optimize only when necessary, based on profiling and measurement.
