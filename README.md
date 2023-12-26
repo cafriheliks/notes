@@ -186,3 +186,16 @@ To stay ahead of the curve, regularly read industry blogs, subscribe to newslett
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
  其次，提前计划。在开始编程之前，先为项目制定一个详细的计划，包括任务分解、时间安排和资源分配。这将帮助你在项目进行过程中避免不必要的延误和混乱。确保为每个任务分配足够的时间，并在预计完成时间之前开始执行任务。 此外，使用版本控制系统（如Git）来跟踪代码更改和协作。这可以帮助您轻松地回滚到之前的代码版本，并确保团队成员之间的代码同步。
  最后，保持组织。一个干净、有组织的代码库可以提高您的效率，减少错误，并为其他开发人员提供一个更好的工作环境。使用代码格式化工具、自动化测试和持续集成工具来确保您的代码始终保持在最佳状态。同时，定期审查和重构代码以消除重复、提高可读性和可维护性。
+
+# 2023-12-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to keep in mind:
+
+1. Break down large projects into smaller, manageable tasks.
+2. Use task management tools, such as Trello or Asana, to track your progress. 
+3. Set deadlines for each task and prioritize them based on their importance and urgency.  
+4. Learn to say "no" to tasks that are outside your scope or don't align with your goals.   
+5. Stay organized by maintaining a clean and well-organized codebase.    
+6. Document your code and comments to make it easier for others to understand and maintain.     
+7. Continuously learn and improve your skills by reading blogs, attending workshops, or taking online courses.      
+8. Collaborate with others and share your knowledge to grow as a programmer.       
+9. Don'ts: Avoid copying and pasting code, as it can lead to maintenance issues. Also, avoid using global variables, which can make your Code hard to read and debug.
