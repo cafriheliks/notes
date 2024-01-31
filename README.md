@@ -396,3 +396,10 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 
 Second, always plan your day or week ahead of time. Write down your goals and tasks for the day, then break them down into smaller, manageable steps. At the end of the week, evaluate your progress and adjust your plan as needed. Planning ahead will ensure you have a clear vision of what you need to accomplish and will prevent you from getting sidetracked. 
  （196个词）
+
+# 2024-01-31
+- Today's programming wisdom is:
+
+"Code readability is as important as functionality. Future you, your teammates, or anyone else maintaining the code will appreciate clear and concise expressions over clever but obfuscated ones. Write code that is easy to read, understand, and modify – because writing code is only half the job; the other half is maintaining it."
+
+In essence, this highlights the significance of writing maintainable and comprehensible code, which is a cornerstone of good software engineering practices.
