@@ -559,3 +559,11 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2024-03-07
 - "Keep it simple, stupid!"
+
+# 2024-03-08
+- "Today's programming wisdom is to embrace the power of simplicity and modularity. Write code that's easy to read, understand, and maintain, focusing on clear and concise expressions of logic. Strive for reusable components and avoid duplicating functionality. Always consider the bigger picture and potential future changes when designing your software architecture. Remember, a program is never truly done; it evolves, so invest in crafting it with adaptability and scalability in mind." 
+
+In practice:
+1. "Make it work, make it right, make it fast" - Kent Beck (in that order).
+2. "Simplicity is prerequisite for reliability" - Edsger W. Dijkstra.
+3. "Premature optimization is the root of all evil" - Donald Knuth.
