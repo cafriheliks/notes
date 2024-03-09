@@ -567,3 +567,16 @@ In practice:
 1. "Make it work, make it right, make it fast" - Kent Beck (in that order).
 2. "Simplicity is prerequisite for reliability" - Edsger W. Dijkstra.
 3. "Premature optimization is the root of all evil" - Donald Knuth.
+
+# 2024-03-09
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, programming languages, software engineering, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ - 学习新技能
+-保持最新的技术
+–理解基本原理
+—终身学习
+——接受新观念
+---尝试新事物
+——————————
+请注意，这是一个简短的回答，没有补充其他评论或废话。如果您需要更详细的答案，请告诉我您想了解的具体内容。
